@@ -194,10 +194,16 @@
 
 ## Images
 * For brevity, here are visuals of the posterior distributions for each of the top 10 players listed
- ![](https://github.com/jakesingi/tennis_ratings/blob/main/images/104925Novak_Djokovic.png)
- ![](https://github.com/jakesingi/tennis_ratings/blob/main/images/106421Daniil_Medvedev.png)
- ![](https://github.com/jakesingi/tennis_ratings/blob/main/images/104745Rafael_Nadal.png)
- <img src="./images/100644Alexander_Zverev.png" alt="Zverev">
+1. <img src="./images/104925Novak_Djokovic.png" width="600" height="500" />
+2. <img src="./images/106421Daniil_Medvedev.png" width="600" height="500" />
+3. <img src="./images/104745Rafael_Nadal.png" width="600" height="500" />
+4. <img src="./images/100644Alexander_Zverev.png" width="600" height="500" />
+5. <img src="./images/126094Andrey_Rublev.png" width="600" height="500" />
+6. <img src="./images/207989Carlos_Alcaraz.png" width="600" height="500" />
+7. <img src="./images/126774Stefanos_Tsitsipas.png" width="600" height="500" />
+8. <img src="./images/106401Nick_Kyrgios.png" width="600" height="500" />
+9. <img src="./images/106233Dominic_Thiem.png" width="600" height="500" />
+10. <img src="./images/126610Matteo_Berrettini.png" width="600" height="500" />
 
 ## Future additions
 * Add master's paper with mathematical details and performance of ratings
