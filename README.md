@@ -1,10 +1,12 @@
 # Tennis Ratings
 
 ## Version 1: ATP Men's Singles Ratings, Rankings, and Images
-* Goal 1 is to add women's ratings and rankings later, and potentially doubles
-* Goal 2 is to move the site away from markdown and toward something cleaner and more aesthetically-pleasing
+* The ratings below are the work of my master's thesis and are based on a fully-(Bayesian)[https://en.wikipedia.org/wiki/Bayesian_statistics] (Bradley-Terry model)[https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model]. They are similar to [Elo ratings](https://en.wikipedia.org/wiki/Elo_rating_system), but I'd argue they resemble [Glicko ratings](https://en.wikipedia.org/wiki/Glicko_rating_system) even more closely. I show in my work that these ratings outperform Glicko (more to come on this later). 
 
 ### Updated through the 2022 season. Updated monthly(ish)
+
+* Only players with 5 or more ATP-level matches played in the past year are shown
+* There are 3 "skill" columns, one for each surface. Unfortunately they are not sortable at the moment, but as a first step, I've sorted the table by "hard_skill" (players' skills on hard court), as this is the most popular surface
 
 | rank | full_name                   | hard_skill  | clay_skill  | grass_skill |
 | ---- | --------------------------- | ----------- | ----------- | ----------- |
@@ -190,3 +192,8 @@
 | 180  | Federico Delbonis           | \-0.2223754 | 0.07855828  | \-0.2061077 |
 | 181  | Chun Hsin Tseng             | \-0.2358689 | \-0.2076213 | \-0.2289772 |
 | 182  | Hugo Dellien                | \-0.2625301 | \-0.1307836 | \-0.2495527 |
+
+## Future goals
+* Add master's paper with mathematical details and performance of ratings
+* Add women's ratings and rankings later, and potentially doubles
+* Move the site away from markdown and toward something cleaner and more aesthetically-pleasing
