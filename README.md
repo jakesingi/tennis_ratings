@@ -1,4 +1,5 @@
 # Tennis Ratings
+#### Author: [Jake Singleton](https://twitter.com/jakesingi)
 
 ## Version 1: January 2023 ATP Men's Singles Ratings and Rankings
 * The ratings below are the work of my master's thesis and are based on a fully-[Bayesian](https://en.wikipedia.org/wiki/Bayesian_statistics) [Bradley-Terry model](https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model). They are similar to [Elo ratings](https://en.wikipedia.org/wiki/Elo_rating_system), but I'd argue they resemble [Glicko ratings](https://en.wikipedia.org/wiki/Glicko_rating_system) even more closely. I show in my work that these ratings outperform Glicko (more to come on this later). 
