@@ -197,6 +197,7 @@
  ![](https://github.com/jakesingi/tennis_ratings/blob/main/images/104925Novak_Djokovic.png)
  ![](https://github.com/jakesingi/tennis_ratings/blob/main/images/106421Daniil_Medvedev.png)
  ![](https://github.com/jakesingi/tennis_ratings/blob/main/images/104745Rafael_Nadal.png)
+ <img src="./images/100644Alexander_Zverev.png" alt="Zverev">
 
 ## Future additions
 * Add master's paper with mathematical details and performance of ratings
