@@ -194,6 +194,7 @@
 
 ## Images
 * For brevity, here are visuals of the posterior distributions for each of the top 10 players listed
+* **Interpretation**: Higher values of skill are good. The tighter the colorful blobs (aka distributions) are, the more confident we are about that player's skill on that particular surface. Note the blue blobs will tend to be tighter, since more matches are played on hard courts relative to clay and grass. For example, we know Nadal is incredibly dominant on clay, and you can see his red blob is quite far to the right, reaffirming our belief he is uniquely good on clay courts.
 1. <img src="./images/104925Novak_Djokovic.png" width="600" height="500" />
 2. <img src="./images/106421Daniil_Medvedev.png" width="600" height="500" />
 3. <img src="./images/104745Rafael_Nadal.png" width="600" height="500" />
