@@ -194,9 +194,9 @@
 
 ## Images
 * For brevity, here are visuals of the posterior distributions for each of the top 10 players listed
-
-1. ![](https://github.com/jakesingi/tennis_ratings/blob/main/images/104925Novak_Djokovic.png =100x20)
-2. ![](https://github.com/jakesingi/tennis_ratings/blob/main/images/106421Daniil_Medvedev.png)
+ ![](https://github.com/jakesingi/tennis_ratings/blob/main/images/104925Novak_Djokovic.png)
+ ![](https://github.com/jakesingi/tennis_ratings/blob/main/images/106421Daniil_Medvedev.png)
+ ![](https://github.com/jakesingi/tennis_ratings/blob/main/images/104745Rafael_Nadal.png)
 
 ## Future additions
 * Add master's paper with mathematical details and performance of ratings
