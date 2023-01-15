@@ -198,25 +198,15 @@
 * **Interpretation**: Higher values of skill are good. The tighter the colorful blobs (aka distributions) are, the more confident we are about that player's skill on that particular surface. Note the blue blobs will tend to be tighter, since more matches are played on hard courts than clay and grass. 
 * For example, we know Nadal is incredibly dominant on clay, and you can see his red blob is quite far to the right, reaffirming our belief he is uniquely good on clay courts.
 
-1.
 <img src="./images/104925Novak_Djokovic.png" width="600" height="500" />
-2. 
 <img src="./images/106421Daniil_Medvedev.png" width="600" height="500" />
-3. 
 <img src="./images/104745Rafael_Nadal.png" width="600" height="500" />
-4. 
-<img src="./images/100644Alexander_Zverev.png" width="600" height="500" />
-5. 
+<img src="./images/100644Alexander_Zverev.png" width="600" height="500" /> 
 <img src="./images/126094Andrey_Rublev.png" width="600" height="500" />
-6. 
 <img src="./images/207989Carlos_Alcaraz.png" width="600" height="500" />
-7. 
 <img src="./images/126774Stefanos_Tsitsipas.png" width="600" height="500" />
-8. 
 <img src="./images/106401Nick_Kyrgios.png" width="600" height="500" />
-9. 
-<img src="./images/106233Dominic_Thiem.png" width="600" height="500" />
-10. 
+<img src="./images/106233Dominic_Thiem.png" width="600" height="500" /> 
 <img src="./images/126610Matteo_Berrettini.png" width="600" height="500" />
 
 ## Future additions
