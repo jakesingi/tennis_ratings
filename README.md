@@ -1,11 +1,11 @@
 # Tennis Ratings
 
-## Version 1: ATP Men's Singles Ratings and Rankings
+## Version 1: January 2023 Ratings and Rankings: ATP Men's Singles
 * The ratings below are the work of my master's thesis and are based on a fully-[Bayesian](https://en.wikipedia.org/wiki/Bayesian_statistics) [Bradley-Terry model](https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model). They are similar to [Elo ratings](https://en.wikipedia.org/wiki/Elo_rating_system), but I'd argue they resemble [Glicko ratings](https://en.wikipedia.org/wiki/Glicko_rating_system) even more closely. I show in my work that these ratings outperform Glicko (more to come on this later). 
 * Only players with 5 or more ATP-level matches played in the last 365 days are listed.
 * **Interpretation**: There are 3 "skill" columns, one for each surface. Unfortunately they are not sortable at the moment, but as a first step, I've sorted the table by "hard_skill" (players' skills on hard court), as this is the most popular surface.
 
-### Updated through the 2022 season. Updated monthly(ish)
+### Updated through the end of the 2022 season. Updated monthly.
 
 | rank | full_name                   | hard_skill  | clay_skill  | grass_skill |
 | ---- | --------------------------- | ----------- | ----------- | ----------- |
@@ -194,17 +194,30 @@
 
 ## Images
 * For brevity, here are visuals of the posterior distributions for each of the top 10 players listed
-* **Interpretation**: Higher values of skill are good. The tighter the colorful blobs (aka distributions) are, the more confident we are about that player's skill on that particular surface. Note the blue blobs will tend to be tighter, since more matches are played on hard courts relative to clay and grass. For example, we know Nadal is incredibly dominant on clay, and you can see his red blob is quite far to the right, reaffirming our belief he is uniquely good on clay courts.
-1. <img src="./images/104925Novak_Djokovic.png" width="600" height="500" />
-2. <img src="./images/106421Daniil_Medvedev.png" width="600" height="500" />
-3. <img src="./images/104745Rafael_Nadal.png" width="600" height="500" />
-4. <img src="./images/100644Alexander_Zverev.png" width="600" height="500" />
-5. <img src="./images/126094Andrey_Rublev.png" width="600" height="500" />
-6. <img src="./images/207989Carlos_Alcaraz.png" width="600" height="500" />
-7. <img src="./images/126774Stefanos_Tsitsipas.png" width="600" height="500" />
-8. <img src="./images/106401Nick_Kyrgios.png" width="600" height="500" />
-9. <img src="./images/106233Dominic_Thiem.png" width="600" height="500" />
-10. <img src="./images/126610Matteo_Berrettini.png" width="600" height="500" />
+* If you want to see plots for other players, I've uploaded them all [here]().
+* **Interpretation**: Higher values of skill are good. The tighter the colorful blobs (aka distributions) are, the more confident we are about that player's skill on that particular surface. Note the blue blobs will tend to be tighter, since more matches are played on hard courts than clay and grass. 
+* For example, we know Nadal is incredibly dominant on clay, and you can see his red blob is quite far to the right, reaffirming our belief he is uniquely good on clay courts.
+
+1. 
+<img src="./images/104925Novak_Djokovic.png" width="600" height="500" />
+2. 
+<img src="./images/106421Daniil_Medvedev.png" width="600" height="500" />
+3. 
+<img src="./images/104745Rafael_Nadal.png" width="600" height="500" />
+4. 
+<img src="./images/100644Alexander_Zverev.png" width="600" height="500" />
+5. 
+<img src="./images/126094Andrey_Rublev.png" width="600" height="500" />
+6. 
+<img src="./images/207989Carlos_Alcaraz.png" width="600" height="500" />
+7. 
+<img src="./images/126774Stefanos_Tsitsipas.png" width="600" height="500" />
+8. 
+<img src="./images/106401Nick_Kyrgios.png" width="600" height="500" />
+9. 
+<img src="./images/106233Dominic_Thiem.png" width="600" height="500" />
+10. 
+<img src="./images/126610Matteo_Berrettini.png" width="600" height="500" />
 
 ## Future additions
 * Add master's paper with mathematical details and performance of ratings
