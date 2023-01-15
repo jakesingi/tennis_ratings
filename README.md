@@ -1,12 +1,11 @@
 # Tennis Ratings
 
 ## Version 1: ATP Men's Singles Ratings, Rankings, and Images
-* The ratings below are the work of my master's thesis and are based on a fully-(Bayesian)[https://en.wikipedia.org/wiki/Bayesian_statistics] (Bradley-Terry model)[https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model]. They are similar to [Elo ratings](https://en.wikipedia.org/wiki/Elo_rating_system), but I'd argue they resemble [Glicko ratings](https://en.wikipedia.org/wiki/Glicko_rating_system) even more closely. I show in my work that these ratings outperform Glicko (more to come on this later). 
+* The ratings below are the work of my master's thesis and are based on a fully-[Bayesian](https://en.wikipedia.org/wiki/Bayesian_statistics) [Bradley-Terry model](https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model). They are similar to [Elo ratings](https://en.wikipedia.org/wiki/Elo_rating_system), but I'd argue they resemble [Glicko ratings](https://en.wikipedia.org/wiki/Glicko_rating_system) even more closely. I show in my work that these ratings outperform Glicko (more to come on this later). 
+* Only players with 5 or more ATP-level matches played in the last 365 days are listed
+* **Interpretation**: There are 3 "skill" columns, one for each surface. Unfortunately they are not sortable at the moment, but as a first step, I've sorted the table by "hard_skill" (players' skills on hard court), as this is the most popular surface.
 
 ### Updated through the 2022 season. Updated monthly(ish)
-
-* Only players with 5 or more ATP-level matches played in the past year are shown
-* There are 3 "skill" columns, one for each surface. Unfortunately they are not sortable at the moment, but as a first step, I've sorted the table by "hard_skill" (players' skills on hard court), as this is the most popular surface
 
 | rank | full_name                   | hard_skill  | clay_skill  | grass_skill |
 | ---- | --------------------------- | ----------- | ----------- | ----------- |
