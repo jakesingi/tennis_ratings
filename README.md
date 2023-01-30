@@ -1,5 +1,5 @@
 ---
-title: Jake Singleton's tennis ratings
+Jake Singleton's tennis ratings
 ---
 
 * [Ratings thru Dec 2022](https://jakesingi.github.io/tennis_ratings/jan23)
