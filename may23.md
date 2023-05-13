@@ -199,16 +199,16 @@
 * **Interpretation**: Higher values of skill are good. The tighter the colorful blobs (aka distributions) are, the more confident we are about that player's skill on that particular surface. Note the blue blobs will tend to be tighter, since more matches are played on hard courts than clay and grass. 
 * For example, we know Nadal is incredibly dominant on clay, and you can see his red blob is quite far to the right, reaffirming our belief he is uniquely good on clay courts.
 
-<img src="./images/thruMar23/104925_Djokovic.png" width="600" height="500" />
-<img src="./images/thruMar23/106421_Medvedev.png" width="600" height="500" />
-<img src="./images/thruMar23/104745_Nadal.png" width="600" height="500" />
-<img src="./images/thruMar23/207989_Alcaraz.png" width="600" height="500" />
-<img src="./images/thruMar23/100644_Zverev.png" width="600" height="500" /> 
-<img src="./images/thruMar23/206173_Sinner.png" width="600" height="500" />
-<img src="./images/thruMar23/106401_Kyrgios.png" width="600" height="500" />
-<img src="./images/thruMar23/126774_Tsitsipas.png" width="600" height="500" />
-<img src="./images/thruMar23/207733_Draper.png" width="600" height="500" />
-<img src="./images/thruMar23/111815_Norrie.png" width="600" height="500" />
+<img src="./images/thruApr23/104925_Djokovic.png" width="600" height="500" />
+<img src="./images/thruApr23/106421_Medvedev.png" width="600" height="500" />
+<img src="./images/thruApr23/104745_Nadal.png" width="600" height="500" />
+<img src="./images/thruApr23/207989_Alcaraz.png" width="600" height="500" />
+<img src="./images/thruApr23/100644_Zverev.png" width="600" height="500" /> 
+<img src="./images/thruApr23/206173_Sinner.png" width="600" height="500" />
+<img src="./images/thruApr23/106401_Kyrgios.png" width="600" height="500" />
+<img src="./images/thruApr23/126774_Tsitsipas.png" width="600" height="500" />
+<img src="./images/thruApr23/207733_Draper.png" width="600" height="500" />
+<img src="./images/thruApr23/111815_Norrie.png" width="600" height="500" />
 
 ## Future additions
 * Add paper with mathematical details and performance of ratings
