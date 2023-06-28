@@ -191,16 +191,16 @@
 * **Interpretation**: Higher values of skill are good. The tighter the colorful blobs (aka distributions) are, the more confident we are about that player's skill on that particular surface. Note the blue blobs will tend to be tighter, since more matches are played on hard courts than clay and grass. 
 * For example, we know Nadal is incredibly dominant on clay, and you can see his red blob is quite far to the right, reaffirming our belief he is uniquely good on clay courts.
 
-<img src="./images/thrufeb23/104925_Djokovic.png" width="600" height="500" />
-<img src="./images/thrufeb23/106421_Medvedev.png" width="600" height="500" />
-<img src="./images/thrufeb23/100644_Zverev.png" width="600" height="500" /> 
-<img src="./images/thrufeb23/104745_Nadal.png" width="600" height="500" />
-<img src="./images/thrufeb23/207989_Alcaraz.png" width="600" height="500" />
-<img src="./images/thrufeb23/126774_Tsitsipas.png" width="600" height="500" />
-<img src="./images/thrufeb23/106401_Kyrgios.png" width="600" height="500" />
-<img src="./images/thrufeb23/206173_Sinner.png" width="600" height="500" />
-<img src="./images/thrufeb23/200059_Wu.png" width="600" height="500" />
-<img src="./images/thrufeb23/126610_Berrettini.png" width="600" height="500" />
+<img src="./images/thruHalleQueens23/104925_Djokovic.png" width="600" height="500" />
+<img src="./images/thruHalleQueens23/106421_Medvedev.png" width="600" height="500" />
+<img src="./images/thruHalleQueens23/207989_Alcaraz.png" width="600" height="500" />
+<img src="./images/thruHalleQueens23/104745_Nadal.png" width="600" height="500" />
+<img src="./images/thruHalleQueens23/100644_Zverev.png" width="600" height="500" /> 
+<img src="./images/thruHalleQueens23/206173_Sinner.png" width="600" height="500" />
+<img src="./images/thruHalleQueens23/106401_Kyrgios.png" width="600" height="500" />
+<img src="./images/thruHalleQueens23/207733_Draper.png" width="600" height="500" />
+<img src="./images/thruHalleQueens23/126774_Tsitsipas.png" width="600" height="500" />
+<img src="./images/thruHalleQueens23/111815_Norrie.png" width="600" height="500" />
 
 ## Future additions
 * Add master's paper with mathematical details and performance of ratings
