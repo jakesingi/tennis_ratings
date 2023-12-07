@@ -203,7 +203,7 @@
 <img src="./images/thruDec23/106421_Medvedev.png" width="600" height="500" />
 <img src="./images/thruDec23/206173_Sinner.png" width="600" height="500" />
 <img src="./images/thruDec23/207733_Draper.png" width="600" height="500" />
-<img src="./images/thruDec23/126094_Rublev" width="600" height="500" />
+<img src="./images/thruDec23/126094_Rublev.png" width="600" height="500" />
 <img src="./images/thruDec23/126774_Tsitsipas.png" width="600" height="500" />
 <img src="./images/thruDec23/126203_Fritz.png" width="600" height="500" />
 <img src="./images/thruDec23/100644_Zverev.png" width="600" height="500" /> 
