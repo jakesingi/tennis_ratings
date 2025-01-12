@@ -203,13 +203,13 @@
 * For brevity, here are visuals of the posterior distributions for each of the top 10 players listed
 * **Interpretation**: Higher values of skill are good. The tighter the colorful blobs (aka distributions) are, the more confident we are about that player's skill on that particular surface. Note the blue blobs will tend to be tighter, since more matches are played on hard courts than clay and grass. 
 
+<img src="./images/thruDec24/206173_Sinner.png" width="600" height="500" />
 <img src="./images/thruDec24/104925_Djokovic.png" width="600" height="500" />
 <img src="./images/thruDec24/207989_Alcaraz.png" width="600" height="500" />
 <img src="./images/thruDec24/106421_Medvedev.png" width="600" height="500" />
-<img src="./images/thruDec24/206173_Sinner.png" width="600" height="500" />
-<img src="./images/thruDec24/207733_Draper.png" width="600" height="500" />
-<img src="./images/thruDec24/126094_Rublev.png" width="600" height="500" />
-<img src="./images/thruDec24/126774_Tsitsipas.png" width="600" height="500" />
-<img src="./images/thruDec24/126203_Fritz.png" width="600" height="500" />
+<img src="./images/thruDec24/105777_Dimitrov.png" width="600" height="500" />
 <img src="./images/thruDec24/100644_Zverev.png" width="600" height="500" /> 
+<img src="./images/thruDec24/207733_Draper.png" width="600" height="500" />
+<img src="./images/thruDec24/126203_Fritz.png" width="600" height="500" />
 <img src="./images/thruDec24/200282_De Minaur.png" width="600" height="500" />
+<img src="./images/thruDec24/126094_Rublev.png" width="600" height="500" />
